@@ -9,6 +9,9 @@ public static void main(String[] args) {
 	j.select(0);
 	j.set("1", "wanglikun");
 	
+	
+	
+	System.out.println("haha");
 	System.out.println(j.get("1"));
 	
 }
